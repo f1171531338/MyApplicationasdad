@@ -25,6 +25,8 @@ public class Presenter implements PresenterInf ,CallBackLister{
         modelInf.getData(userName,pwd,this);
         modelInf.getData(userName,pwd,this);
         modelInf.getData(userName,pwd,this);
+        modelInf.getData(userName,pwd,this);
+        modelInf.getData(userName,pwd,this);
     }
 
 
