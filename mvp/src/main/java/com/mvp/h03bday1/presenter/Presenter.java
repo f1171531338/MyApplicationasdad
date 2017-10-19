@@ -23,7 +23,8 @@ public class Presenter implements PresenterInf ,CallBackLister{
     @Override
     public void helpViewCallToModel(String userName, String pwd) {
         modelInf.getData(userName,pwd,this);
-
+        modelInf.getData(userName,pwd,this);
+        modelInf.getData(userName,pwd,this);
     }
 
 
